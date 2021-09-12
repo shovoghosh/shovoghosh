@@ -184,8 +184,8 @@
 </table>
 
 <div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+<h2 align="center" style="margin: 5px 10px;"> </h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=shovoghosh&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/shovoghosh)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=shovoghosh&theme=material-palenight)](https://github.com/shovoghosh)
+[![](https://github-readme-stats.vercel.app/api?username=shovoghosh&show_icons=true&theme=github_dark&hide_border=true&locale=en)](https://github.com/shovoghosh) [![](https://github-readme-streak-stats.herokuapp.com?user=shovoghosh&theme=dark&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+
 </div>
