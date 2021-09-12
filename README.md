@@ -183,10 +183,10 @@
   </tr>
 </table>
 
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shovoghosh&show_icons=true&locale=en&layout=compact" alt="shovoghosh" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shovoghosh&show_icons=true&locale=en" alt="shovoghosh" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shovoghosh&show_icons=true&locale=en&layout=compact" alt="shovoghosh" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shovoghosh&" alt="shovoghosh" /></p>
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shovoghosh" alt="shovoghosh" /></a> </p>
 
