@@ -186,6 +186,6 @@
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;"> </h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=shovoghosh&show_icons=true&theme=github_dark&hide_border=true&locale=en)](https://github.com/shovoghosh) [![](https://github-readme-streak-stats.herokuapp.com?user=shovoghosh&theme=dark&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+[![](https://github-readme-stats.vercel.app/api?username=shovoghosh&show_icons=true&theme=github_dark&hide_border=true&locale=en)](https://github.com/shovoghosh) [![](https://github-readme-streak-stats.herokuapp.com?user=shovoghosh&theme=dark&hide_border=true&background=0D1117&ring=1C2F45&fire=4C8EDA&currStreakLabel=4C8EDA)](https://git.io/streak-stats)
 
 </div>
