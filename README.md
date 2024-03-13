@@ -170,7 +170,7 @@
     </td>
 	<td align="center" width="96">
       <a href="#selenium">
-        <img src="https://github.com/gilbarbara/logos/blob/master/logos/selenium.svg" width="48" height="48" alt="selenium" />
+        <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/selenium.svg" width="48" height="48" alt="selenium" />
       </a>
       <br>Selenium
     </td>
