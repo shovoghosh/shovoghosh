@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shuvo</h1>
-<h3 align="center">I'm Full Stack Web Developer, Specialized in Dynamic Website Development</h3>
+<h3 align="center">I'm Full Stack Developer, Specialized in Dynamic Website & Mobile Application Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shovoghosh&label=Profile%20views&color=0e75b6&style=flat" alt="shovoghosh" /> </p>
 
