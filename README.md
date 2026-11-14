@@ -1,11 +1,17 @@
 <h1 align="center">Hi, I'm Shuvo 👋</h1>
 
-<p align="center">Full-stack developer building web and mobile applications.</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+web+development;Mobile+apps+with+Flutter&amp;font=Fira+Code&amp;size=20&amp;duration=3500&amp;pause=1000&amp;color=149ECA&amp;center=true&amp;vCenter=true&amp;width=520&amp;height=44" alt="Full-stack web development and mobile apps with Flutter" />
+</p>
 
 <p align="center">
   <a href="mailto:shovoghosh@outlook.com">Email me</a> ·
   <a href="https://www.linkedin.com/in/shovoghosh/">LinkedIn</a> ·
   <a href="https://github.com/shovoghosh">GitHub</a>
+</p>
+
+<p align="center">
+  <img src="./code.gif" alt="Animated illustration of a developer working at two monitors" width="420" />
 </p>
 
 ---
