@@ -9,7 +9,7 @@
   &nbsp;
   <a href="https://www.linkedin.com/in/shovoghosh/"><img src="./assets/contact-linkedin.svg" alt="Connect on LinkedIn" width="156" height="48" /></a>
   &nbsp;
-  <a href="https://github.com/shovoghosh"><img src="./assets/contact-github.svg" alt="View GitHub profile" width="156" height="48" /></a>
+  <a href="https://mxsxlab.com"><img src="./assets/contact-website.svg" alt="Visit MXSX Lab website" width="156" height="48" /></a>
 </p>
 
 <p align="center">
