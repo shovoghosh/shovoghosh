@@ -5,9 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="mailto:shovoghosh@outlook.com">Email me</a> ·
-  <a href="https://www.linkedin.com/in/shovoghosh/">LinkedIn</a> ·
-  <a href="https://github.com/shovoghosh">GitHub</a>
+  <a href="mailto:shovoghosh@outlook.com"><img src="./assets/contact-email.svg" alt="Email Shuvo" width="156" height="48" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/shovoghosh/"><img src="./assets/contact-linkedin.svg" alt="Connect on LinkedIn" width="156" height="48" /></a>
+  &nbsp;
+  <a href="https://github.com/shovoghosh"><img src="./assets/contact-github.svg" alt="View GitHub profile" width="156" height="48" /></a>
 </p>
 
 <p align="center">
